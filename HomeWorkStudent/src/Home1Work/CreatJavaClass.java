@@ -7,18 +7,18 @@ public class CreatJavaClass implements NameMethod {
 
     public static void main(String[] args) {
         CreatJavaClass work = new CreatJavaClass();
-        work.recordNameJavaClass("OcHomework1\n" +
-                "OcHomework2\n" +
-                "OcHomework3\n" +
-                "OcHomework4\n" +
-                "OcHomework5\n" +
-                "OcHomework6\n" +
-                "OcHomework7\n" +
-                "OcHomework8\n" +
-                "OcHomework9\n" +
-                "OcHomework10\n" +
-                "OcHomework11");
-        readAllFileNameAndCheckExists(way, "Belanovih");
+        work.recordNameJavaClass("Homework1\n" +
+                "Homework2\n" +
+                "Homework3\n" +
+                "Homework4\n" +
+                "Homework5\n" +
+                "Homework6\n" +
+                "Homework7\n" +
+                "Homework8\n" +
+                "Homework9\n" +
+                "Homework10\n" +
+                "Homework11");
+        readAllFileNameAndCheckExists(way, "Strelcenok");
     }
     private static void recordAndCreatJavaClassAndRecordPackage(String way,String line, String folder){
         String wayPackage = "package Home1Work." + folder + ";\n";

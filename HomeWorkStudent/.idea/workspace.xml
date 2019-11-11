@@ -11,8 +11,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -32,7 +32,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.OcHomework4">
+  <component name="RunManager" selected="Application.Homework1 (1)">
     <configuration name="CreatJavaClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Home1Work.CreatJavaClass" />
       <module name="HomeWorkStudent" />
@@ -46,12 +46,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Homework3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Home1Work.Stejka.Homework3" />
+    <configuration name="Homework1 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Home1Work.Dogadin.Homework1" />
       <module name="HomeWorkStudent" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Home1Work.Stejka.*" />
+          <option name="PATTERN" value="Home1Work.Dogadin.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -59,12 +59,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Homework4 (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Home1Work.Stejka.Homework4" />
+    <configuration name="Homework1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Home1Work.Strelcenok.Homework1" />
       <module name="HomeWorkStudent" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Home1Work.Stejka.*" />
+          <option name="PATTERN" value="Home1Work.Strelcenok.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Homework4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Home1Work.Rysovic.Homework4" />
+      <module name="HomeWorkStudent" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Home1Work.Rysovic.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -73,24 +86,11 @@
       </method>
     </configuration>
     <configuration name="Homework5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Home1Work.Stejka.Homework5" />
+      <option name="MAIN_CLASS_NAME" value="Home1Work.Rysovic.Homework5" />
       <module name="HomeWorkStudent" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Home1Work.Stejka.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="OcHomework4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Home1Work.Belanovih.OcHomework4" />
-      <module name="HomeWorkStudent" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Home1Work.Belanovih.*" />
+          <option name="PATTERN" value="Home1Work.Rysovic.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -100,11 +100,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.OcHomework4" />
+        <item itemvalue="Application.Homework1 (1)" />
+        <item itemvalue="Application.Homework1" />
         <item itemvalue="Application.CreatJavaClass" />
         <item itemvalue="Application.Homework5" />
-        <item itemvalue="Application.Homework4 (2)" />
-        <item itemvalue="Application.Homework3" />
+        <item itemvalue="Application.Homework4" />
       </list>
     </recent_temporary>
   </component>

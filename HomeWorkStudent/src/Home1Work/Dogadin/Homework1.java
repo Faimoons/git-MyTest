@@ -6,11 +6,11 @@ public class Homework1 {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         System.out.println("Введите размер a:");
-        int a = in.nextInt();
+        int a = 6;
         System.out.println("Введите размер b:");
-        int b = in.nextInt();
+        int b = 6;
         System.out.println("Введите радиус r:");
-        int r = in.nextInt();
+        int r = 5;
 
         //определям размер диагонали прямоугольника
         double d = Math.sqrt(a * a + b * b);
